@@ -1,0 +1,4 @@
+Iotlabs	KEYWORD1
+wifiConnection	KEYWORD2
+setThingSpeak	KEYWORD2
+sendThingSpeak	KEYWORD2
